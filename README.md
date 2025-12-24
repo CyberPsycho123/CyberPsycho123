@@ -12,7 +12,7 @@
 
 
 
-### 🛠️ My Dev Arsenal  
+### 🛠️ Tech Stack
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
